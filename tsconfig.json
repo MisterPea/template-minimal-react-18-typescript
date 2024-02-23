@@ -25,8 +25,11 @@
     ] // Include necessary type definitions
   },
   "include": [
-    "src"
-, "src/App.tsx", "src/index.tsx"  ], // Include TypeScript files for compilation
+    "src",
+    "./webpack.config.js",
+    "src/App.tsx",
+    "src/index.tsx"
+  ], // Include TypeScript files for compilation
   "exclude": [
     "node_modules",
     "dist"
