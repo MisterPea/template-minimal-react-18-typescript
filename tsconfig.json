@@ -25,7 +25,8 @@
     "src",
     "./webpack.config.js",
     "src/App.tsx",
-    "src/index.tsx"
+    "src/index.tsx",
+    "global.d.ts"
   ],
   "exclude": [
     // Exclude unnecessary directories

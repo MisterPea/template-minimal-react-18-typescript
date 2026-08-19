@@ -1,5 +1,5 @@
 {
-  "name": "minimal-react18-typescript-template",
+  "name": "minimal-react19-typescript-template",
   "version": "1.1.0",
   "description": "React - Typescript Template",
   "main": "index.tsx",
@@ -14,8 +14,8 @@
   "author": "Perry Angelora",
   "license": "MIT",
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
   },
   "devDependencies": {
     "@babel/core": "^7.29.0",
@@ -23,8 +23,8 @@
     "@babel/preset-react": "^7.23.3",
     "@babel/preset-typescript": "^7.28.5",
     "@biomejs/biome": "^2.4.5",
-    "@types/react": "^18.2.57",
-    "@types/react-dom": "^18.2.19",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
     "babel-loader": "^9.1.3",
     "css-loader": "^6.10.0",
     "html-webpack-plugin": "^5.6.6",
@@ -35,6 +35,6 @@
     "typescript": "^5.3.3",
     "webpack": "^5.105.4",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^5.2.3"
+    "webpack-dev-server": "^6.0.0"
   }
 }
